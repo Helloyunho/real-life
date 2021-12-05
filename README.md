@@ -9,3 +9,5 @@ You can check [the issues page](https://github.com/Helloyunho/real-life/issues) 
 - Or you can even make an issue for me! ...Unless it's not mean to someone.
 
 Inspired by https://github.com/Hoto-Cocoa/Real-Life
+
+Licensed under CC BY-SA 4.0
